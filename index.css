@@ -1,0 +1,149 @@
+.CV{
+    display: flex;
+    max-width: 800px;
+    margin-left: 350px;
+    box-shadow: black 5px 5px 16px;
+    width: 1200px;
+    height: 1000px;
+}
+
+.blue{
+    background-color: rgb(4, 44, 74);
+    width: 500px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+}
+
+.Image{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.mainthemecolor{
+    color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Contact, .Education, .Language{
+    margin-top: 60px;
+}
+
+
+.Circlewhite{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    margin: 4px;
+
+}
+
+.Circlegray{
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.circleblack{
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.circlelight{
+    background-color: grey;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.whitepart{
+    display: flex;
+    width: 50px;
+    height: 1px;
+    margin-left: 0px;
+    background-color: white;
+    justify-content: center;
+}
+
+.blackpart{
+    display: flex;
+    margin-left: 0px;
+    background-color: black;
+    width: 50px;
+    height: 2px;
+}
+
+.Profile{
+    padding-top: 20px;
+}
+
+.english, .russian, .turkish{
+    display: flex;
+    align-items: center;
+}
+
+
+.englishtext, .russiantext, .turkishtext{
+    margin-right: 20px;
+}
+
+.Whitepage{
+   margin: 25px;
+}
+
+.experienceparts{
+    display: flex;
+    gap: 10px;
+}
+
+.part1{
+    width: 300px;
+}
+
+.photoshop, .indesign, .illustrator, .aftereffects{
+    display: flex;
+    align-items: center;
+}
+
+.photoshoptext, .aftereffectstext{
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.all{
+    display: flex;
+    gap: 50px;
+}
+
+.photoshopillustrator{
+    margin-right: 10px;
+}
+
+.illustratortext{
+    margin-right: 20px;
+}
+
+.indesigntext{
+    margin-right: 38px;
+}
+
+.senioruxdesigner, .junioruxdesigner, .uxdesigner{
+    margin: 0px;
+    margin-top: 15px;
+}
+
+.present{
+    padding-bottom: 35px;
+}
